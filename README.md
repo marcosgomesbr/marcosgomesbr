@@ -12,6 +12,7 @@ From São Paulo-SP, Brazil. Since 2001.
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=55119479680452&text=Hello!)](https://api.whatsapp.com/send?phone=5511947968045&text=Hello!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcoseduardo01@icloud.com)](mailto:marcoseduardo01@icloud.com)
 
+![image](https://user-images.githubusercontent.com/74672261/110225862-356fa400-7ec8-11eb-81ff-1d94d4a96ed5.png)
 
 
 Thought:
