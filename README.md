@@ -1,5 +1,5 @@
 ### Hi there 👋
-From Brazil, since 2001
+From São Paulo-SP, Brazil. Since 2001.
 - 👨‍⚕️ Estuding physiotherapy at PUC-SP
 - 👨‍💻 Lover of Technology and coding 
 <!--
