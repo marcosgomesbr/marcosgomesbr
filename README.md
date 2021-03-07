@@ -1,7 +1,7 @@
 ### Hi there 👋
 From Brazil, since 2001
-- 👨‍⚕️Physiotherapy at PUC-SP
-
+- 👨‍⚕️ Estuding physiotherapy at PUC-SP
+- 👨‍💻 Technology enthusiast
 <!--
 **marcosgomesbr/marcosgomesbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.!-->
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/brmarcosgomes)   [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/marcosgomesbr/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/marcosgomes.br/) 
