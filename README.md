@@ -4,8 +4,11 @@ From Brazil, since 2001
 - 👨‍💻 Lover of Technology and coding 
 <!--
 **marcosgomesbr/marcosgomesbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.!-->
+## 🚀 Social networks
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/brmarcosgomes)   [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/marcosgomesbr/) 
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/marcosgomes.br/) 
+
+## 📱 Contact 
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=55119479680452&text=Hello!)](https://api.whatsapp.com/send?phone=5511947968045&text=Hello!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcoseduardo01@icloud.com)](mailto:marcoseduardo01@icloud.com)
 
