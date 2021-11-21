@@ -1,6 +1,5 @@
 ### Hi there 👋
 From São Paulo-SP, Brazil. Since 2001.
-- 👨‍⚕️ Estuding physiotherapy at PUC-SP
 - 👨‍💻 Lover of Technology and coding 
 <!--
 **marcosgomesbr/marcosgomesbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.!-->
